@@ -43,6 +43,13 @@ similar core functionality as Zerebro. For creative outputs, you'll need to fine
 - GROQ API
 - Together AI
 
+### Fund allocating
+ 
+- Create and manage auto trading bot
+- Show bot trade report
+- Auto allocate funding
+- Save and load bot
+
 ## Quickstart
 
 The quickest way to start using ZerePy is to use our Replit template:
@@ -424,6 +431,3 @@ Use `help` in the CLI to see all available commands. Key commands include:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=blorm-network/ZerePy&type=Date)](https://star-history.com/#blorm-network/ZerePy&Date)
 
----
-
-Made with ♥ @Blorm.xyz
